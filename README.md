@@ -1,2 +1,0 @@
-# pkb
-personal knowledge base
